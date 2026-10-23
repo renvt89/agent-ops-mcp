@@ -1,10 +1,10 @@
 # agent-ops MCP server
 
-- **What it is:** agent-ops, an MCP (Model Context Protocol) server package that helps you run and track AI-agent operations from an MCP client such as Claude Desktop, Cursor or another MCP-compatible tool.
+- **What you get:** agent-ops, an MCP (Model Context Protocol) server package with run receipts, a token budget check and trace redaction tools for Cline, Claude Desktop and Cursor. It is a ZIP with the source, install notes and docs.
 - **Who it is for:** solo developers and small teams who run AI agents and want their ops tooling exposed as MCP tools.
-- **How it is delivered:** a ZIP download from Gumroad. The package is published and supported by Rene Vergara.
-- **Price:** shown on the Gumroad page.
-- **Get it:** https://renevibe76.gumroad.com/l/mrwgsk
+- **Delivered by a human:** built and supported by Rene Vergara. Support questions get a personal reply from him, not an autoresponder.
+- **Price:** pay what you want on Gumroad, from $1 (suggested $5): https://renevibe76.gumroad.com/l/mrwgsk
+- **Turnaround:** instant download after checkout. Support questions are answered within 48h.
 
 ## About this repository
 
